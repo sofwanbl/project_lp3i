@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#header li
+{
+  display:inline;
+  margin-right:20px;
+}
+
+#tulisan
+{
+  float:left;
+  margin-right:20px;
+}
+
+#tulisan_1
+{
+  padding-left:40px;
+  font-size:50px;
+  font-weight: bold;
+}
+
+#tulisan_2
+{
+  padding-left:40px;
+  font-size:18px;
+  color:grey;
+}
+
+#letak_gambar
+{
+  float:right;
+  margin-right:180px;
+}
+
+.input_shorten
+{
+  position:relative;
+  margin-left:40px;
+}
+
+a
+{ background-color:#008000;
+  padding:10px;
+  color:#ffffff;
+}
+
+#layoutnya
+{
+   margin:auto;
+
+}
+
+#tombolnya
+{
+  position:relative;
+  padding:40px;
+}
